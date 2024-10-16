@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LogickConsole
 {
-    public class ExMethod
+    public class OverloadMethod
     {
         public int Add(int num1, int num2)
         {

@@ -11,7 +11,7 @@ namespace LogickConsole
         public static void Main(string[] args)
         {
 
-            //ExMethod objProgram = new ExMethod();
+            //OverloadMethod objProgram = new OverloadMethod();
             //Console.WriteLine("Add with two int parameter :" + objProgram.Add(3, 2));
             //Console.WriteLine("Add with three int parameter :" + objProgram.Add(3, 2, 8));
             //Console.WriteLine("Add with two float parameter :" + objProgram.Add(3.7f, 2.2f));
