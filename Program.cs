@@ -33,6 +33,9 @@ namespace LogickConsole
             MultiplicationMatrix multiplicationMatrix = new MultiplicationMatrix();
             MatrixAddition matrixAddition = new MatrixAddition();
 
+            FindnThNum2 obj = new FindnThNum2();
+            obj.Findnth();
+
             //findnth.Mains();
             //multiplyDegit.DegitMultiply();
             //sq.SequenceMain();
